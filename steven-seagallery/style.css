@@ -18,6 +18,8 @@ main{
 .news{
     display: flex;
     margin-bottom: 60px;
+    margin-left:40px ;
+    margin-right:40px ;
 }
     .gallery{
     display: flex;
@@ -39,10 +41,12 @@ h3{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
     margin-bottom: 20px;
     }
 h2{
-    font-size: 32px;
+    font-size: 40px;
     line-height: 36px;
     margin-top: 16px;
     margin-bottom: 12px;
+    color: white;
+    
 }
 
 h3{
@@ -50,8 +54,9 @@ h3{
     line-height: 28px;
     margin-top: 30px;
     margin-bottom: 15px;
+    color: white;
 }
 
 .gallery div{
-    border:2px solid rgb(134, 63, 63)
+    border:2px solid rgb(255, 255, 255)
 }
